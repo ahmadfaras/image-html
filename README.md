@@ -1,0 +1,1 @@
+A server which will serve an HTML page containing a funny image.
