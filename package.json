@@ -1,0 +1,22 @@
+{
+  "name": "image-html",
+  "version": "1.0.0",
+  "description": "A server which will serve an HTML page containing a funny image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadfaras/image-html.git"
+  },
+  "author": "Ahmad Z. Faras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadfaras/image-html/issues"
+  },
+  "homepage": "https://github.com/ahmadfaras/image-html#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
